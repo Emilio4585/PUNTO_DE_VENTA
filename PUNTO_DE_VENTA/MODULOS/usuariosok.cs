@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace PUNTO_DE_VENTA
 {
-    public partial class Form1 : Form
+    public partial class usuariosok : Form
     {
-        public Form1()
+        public usuariosok()
         {
             InitializeComponent();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
